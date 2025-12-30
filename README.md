@@ -1,4 +1,4 @@
-Single-Cell RNA-seq Analysis Pipeline: Tissue Inference, Cell Type Annotation, and Immune Profiling 
+**Single-Cell RNA-seq Analysis Pipeline: Tissue Inference, Cell Type Annotation, and Immune Profiling **
 
 This repository contains a complete single-cell RNA-sequencing analysis workflow used to identify cell types, infer tissue origin, and characterize immune status of an unlabelled human dataset. The analysis follows standard single-cell best practices using Scanpy, including preprocessing, dimensionality reduction, clustering, marker-based annotation, and lineage-specific interpretation.
 
